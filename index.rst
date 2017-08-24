@@ -10,8 +10,7 @@ Welcome to test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-testtest
-
+test
 
 Indices and tables
 ==================
